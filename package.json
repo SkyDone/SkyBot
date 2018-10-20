@@ -2,7 +2,7 @@
   "name": "SkyBot",
   "version": "1.0.0",
   "description": "Bot is Online",
-  "main": "index.js",
+  "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
