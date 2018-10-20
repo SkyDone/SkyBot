@@ -1,14 +1,13 @@
 {
   "name": "SkyBot",
-  "version": "1.0.0",
-  "description": "Bot is Online",
+  "description": "Bot is Online!!",
+  "version": "0.0.0",
   "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bot.js"
   },
-  "author": "Main-Bot",
-  "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.4.2"
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
   }
 }
